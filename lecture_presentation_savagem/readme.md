@@ -12,6 +12,7 @@
     > April 27, 2017
 </head>
 <body>
+
 <h1>USING COLOR IN MAPPING </h1>
 
 <center><img class="img-responsive img-border=25px img-center" src="img/Rivers_c.jpg"  hight='400' width='400' style="margin-left:5px;margin-right:5px; align:left; HSPACE:50; VSPACE:50" alt="">
