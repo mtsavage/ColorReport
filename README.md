@@ -36,8 +36,9 @@ values, dark colors with high data values.
 
 ![](img/water_depth.jpg)
 
-Fig1. Notice how the blue in the lake goes from light to dark- dark symbolizing deep water, and light symbolizing
+Fig 1. Notice how the blue in the lake goes from light to dark- dark symbolizing deep water, and light symbolizing
 shallow water.
+
 ------
 
 ## **Hue**
@@ -52,6 +53,7 @@ from the other when right next to each other.
 
 Fig 2. This is a choropleth map of New York City which shows the distribution of different ethnicities
 symbolized by different hues.
+
 ------
 
 ## **Saturation**
