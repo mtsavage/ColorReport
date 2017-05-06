@@ -81,7 +81,7 @@ values of those colors.
 
 ------
 
-## **Choosing the right colors **
+## **Choosing the right colors**
 
 As a rule of thumb, it is good to make natural features their natural color, although there are
 many exceptions. It is also important to use colors that fit the theme of your map, for examples
